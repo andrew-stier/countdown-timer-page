@@ -2,4 +2,4 @@
 
 A simple counter/timer counting down time.
 
- - [Preview timer](https://jakubgania.github.io/countdown-timer-page/timer)
+ - [Preview timer](https://andrew-stier.github.io/countdown-timer-page/timer.html)
